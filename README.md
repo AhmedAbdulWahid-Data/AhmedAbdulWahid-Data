@@ -1,4 +1,4 @@
-# 🌟 Welcome to Ahmed Abdulwahid's Profile! 🌟  
+# 🌟 Welcome to my Profile! 🌟  
 
 Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about solving problems, creating insights, and building impactful solutions. Whether it's data, dashboards, or machine learning, I'm always exploring new ways to transform ideas into action! 🚀  
 
@@ -15,13 +15,12 @@ Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about s
 ## 📫 How to Reach Me  
 📧 **Email**: [AhmedAbdulwahid@gmail.com](mailto:AhmedAbdulwahid@gmail.com)  
 📄 **CV**: [Check it out here](https://drive.google.com/file/d/1w7J7Mv4mYzuaHWdYqNiB8uvu3CARUzjh/view?usp=sharing)  
-🌐 **Portfolio Website**: *Coming soon!*  
 
 ---
 
 ## 🚀 Featured Projects  
 Here are some cool things I've built:  
-- 🎮 [**Python Games**](https://github.com/AhmedAbdulwahid/python-games) - Tetris, Space Invaders, Pacman, Chess, and Breakout!  
+- 🎮 [**Python Games**](https://github.com/AhmedAbdulWahid-Data/Python_Games) - Tetris, Space Invaders, Pacman, Chess, and Breakout!  
 - 📊 [**Interactive HR Dashboard**](#) - Simplifying HR insights with interactive visualizations in Tableau.  
 - 🤖 [**Data Cleaner Master**](#) - A Python-based data cleaning wizard!  
 
