@@ -13,16 +13,16 @@ Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about s
 ---
 
 ## 📫 How to Reach Me  
-📧 **Email**: [AhmedAbdulwahid@gmail.com](mailto:AhmedAbdulwahid@gmail.com)  
+📧 **Email**: [AhmedAbdulwahid@gmail.com](ahmedabdulwahid.data@gmail.com)  
 📄 **CV**: [Check it out here](https://drive.google.com/file/d/1w7J7Mv4mYzuaHWdYqNiB8uvu3CARUzjh/view?usp=sharing)  
 
 ---
 
 ## 🚀 Featured Projects  
 Here are some cool things I've built:  
-- 🎮 [**Python Games**](https://github.com/AhmedAbdulWahid-Data/Python_Games) - Tetris, Space Invaders, Pacman, Chess, and Breakout!  
-- 📊 [**Interactive HR Dashboard**](#) - Simplifying HR insights with interactive visualizations in Tableau.  
-- 🤖 [**Data Cleaner Master**](#) - A Python-based data cleaning wizard!  
+- 🎮 [**Python Games**](https://github.com/AhmedAbdulWahid-Data/Python_Games) 
+- 📊 [**5 Dashboards Collection**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards) 
+- 🤖 [**Data Cleaner App**](https://github.com/AhmedAbdulWahid-Data/Data_Cleaner_app)  
 
 ---
 
