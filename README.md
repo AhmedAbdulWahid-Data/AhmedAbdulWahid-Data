@@ -13,7 +13,7 @@ Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about s
 ---
 
 ## 📫 How to Reach Me  
-📧 **Email**: [AhmedAbdulwahid@gmail.com](ahmedabdulwahid.data@gmail.com)  
+📧 [**Email**](ahmedabdulwahid.data@gmail.com)  
 📄 **CV**: [Check it out here](https://drive.google.com/file/d/1w7J7Mv4mYzuaHWdYqNiB8uvu3CARUzjh/view?usp=sharing)  
 
 ---
