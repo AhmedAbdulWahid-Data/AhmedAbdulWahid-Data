@@ -11,9 +11,9 @@ Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about s
 - 📚 **Lifelong Learner**: Always reading, coding, and mastering new skills!  
 
 ---
- [resume.pdf](https://github.com/user-attachments/files/18040564/resume.pdf)
 
-📄 **CV**: [Check it out here](https://drive.google.com/file/d/1w7J7Mv4mYzuaHWdYqNiB8uvu3CARUzjh/view?usp=sharing)  
+
+📄 **CV**: [Check it out here](https://drive.google.com/drive/u/0/my-drive)  
 
 ---
 
