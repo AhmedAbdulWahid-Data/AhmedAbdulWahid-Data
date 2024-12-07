@@ -13,7 +13,7 @@ Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about s
 ---
 
 
-📄 **CV**: [Check it out here](https://drive.google.com/file/d/1k8gFNOb7Qg7HqvyL9v0pavq1D7wVbowS/view?usp=sharing)
+📄 # **CV**: [CV](https://drive.google.com/file/d/1k8gFNOb7Qg7HqvyL9v0pavq1D7wVbowS/view?usp=sharing)
 
 ---
 
