@@ -4,10 +4,14 @@ Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about s
 
 ---
 
-## 🌍 About Me  
-- 🎓 **Background**: With a Bachelor’s in Accounting, I’ve transitioned into the dynamic world of Data Science, blending business acumen with technical expertise.  
-- 🛠️ **Expertise**: Skilled in data visualization, machine learning, Python, Tableau, and much more.  
-- 🎯 **Focus**: Passionate about big data, Apache Spark, deep learning, and pushing boundaries with advanced analytics and AI-driven solutions.  
+## 🌍 About Me
+
+- 🎓 **Background**: With a Bachelor’s in Accounting, I’ve transitioned into the dynamic world of Data Science, blending business acumen with technical expertise.
+    
+- 🛠️ **Expertise**: Skilled in Data Visualization, SQL, Machine Learning, Python, Tableau, and much more.
+  
+- 🎯 **Focus**: Passionate about big data, Apache Spark, Deep Learning, and pushing boundaries with advanced analytics and AI-driven solutions.
+  
 - 📚 **Lifelong Learner**: Constantly exploring new technologies, mastering skills, and staying at the forefront of innovation! 
 
 ---
