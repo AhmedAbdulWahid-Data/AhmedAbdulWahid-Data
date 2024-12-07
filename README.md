@@ -18,13 +18,13 @@ Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about s
 
 ---
 
-## 📽️ Take a look at the projects I’m most proud of! 🏭:  
+## 📽️ Take a look at the projects I’m most proud of 🏭:  
  
 - ⚔️ [**Top 10 Machine Learning Algorithms from Scratch**](https://github.com/AhmedAbdulWahid-Data/Top_10_ML_Algorithms)
   
 - 📊 [**5 Dashboards Collection**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards)
   
-- ⚔️ 🤖[**Churn Prediction Model**](https://github.com/AhmedAbdulWahid-Data/Customer_Churn_Prediction)
+- 🤖 [**Churn Prediction Model**](https://github.com/AhmedAbdulWahid-Data/Customer_Churn_Prediction)
   
 - 🧼 [**Data Cleaner App**](https://github.com/AhmedAbdulWahid-Data/Data_Cleaner_app)
 
