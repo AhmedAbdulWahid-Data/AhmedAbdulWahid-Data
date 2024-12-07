@@ -22,7 +22,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 ---
 
 
-# 📄 **CV** 👉 [Here](https://drive.google.com/file/d/1q_Cpt4nRojckh2HFQj6fKMAw16H_GRSC/view?usp=share_link)
+# 📄 **CV** 👉 [Here](https://drive.google.com/file/d/1WgefQ1j3vjhNAIbB_9j3rs6WUViv8tph/view?usp=share_link)
 
 
 ---
