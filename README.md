@@ -44,7 +44,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
   
 ---
 
-## Fun Facts:😅 
+## Fun Facts 😅 
 
 - 💡 **“Impossible itself says, ‘I’m possible!’”** 👉 A motto I live by every day.
   
