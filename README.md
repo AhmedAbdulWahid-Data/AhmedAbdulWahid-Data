@@ -21,7 +21,9 @@ Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about s
 Here are some cool things I've built:  
 - 🎮 [**Python Games**](https://github.com/AhmedAbdulWahid-Data/Python_Games) 
 - 📊 [**5 Dashboards Collection**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards) 
-- 🤖 [**Data Cleaner App**](https://github.com/AhmedAbdulWahid-Data/Data_Cleaner_app)  
+- 🤖 [**Data Cleaner App**](https://github.com/AhmedAbdulWahid-Data/Data_Cleaner_app)
+- [**Top 10 Machine Learning Algorithms from Scratch**](https://github.com/AhmedAbdulWahid-Data/Top_10_ML_Algorithms)
+- [**Churn Prediction Model**](https://github.com/AhmedAbdulWahid-Data/Customer_Churn_Prediction)
 
 ---
 
