@@ -1,8 +1,8 @@
 # 🕯️ Welcome to My World of Analytics and Innovation! 🕯️  
 
-Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** driven by curiosity and innovation. I thrive on turning raw data into meaningful stories, solving complex problems, and delivering insights that make a real-world impact. ✨  
+Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** driven by curiosity and innovation. I thrive on turning raw data into **meaningful stories**, solving complex problems, and delivering **insights** that make a real-world impact. ✨  
 
-With a love for crafting interactive dashboards, building machine learning models, and exploring big data, I’m on a mission to help businesses unlock the true power of their data. 🚀  
+With a love for crafting **interactive dashboards**, building **machine learning models**, and exploring **big data**, I’m on a mission to help businesses unlock the true power of their data. 🚀  
 
 💡 **My Motto**: *"From data to discovery, from insight to impact!"*  
 
@@ -56,4 +56,4 @@ With a love for crafting interactive dashboards, building machine learning model
 
 ---
 
-Feel free to explore my projects and reach out anytime! Let’s create, collaborate, and make an impact together! 💪  
+### Feel free to explore my projects and reach out anytime! Let’s create, collaborate, and make an impact together! 💪  
