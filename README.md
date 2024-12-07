@@ -13,18 +13,22 @@ Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about s
 ---
 
 
-📄 # **CV**: [CV](https://drive.google.com/file/d/1k8gFNOb7Qg7HqvyL9v0pavq1D7wVbowS/view?usp=sharing)
+📄 **CV**: [Here](https://drive.google.com/file/d/1k8gFNOb7Qg7HqvyL9v0pavq1D7wVbowS/view?usp=sharing)
 
 ---
 
-## 🚀 Featured Projects  
-Here are some cool things I've built:  
-- 🎮 [**Python Games**](https://github.com/AhmedAbdulWahid-Data/Python_Games) 
-- 📊 [**5 Dashboards Collection**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards) 
+## 🚀 Here are some cool things I've built:  
+ 
+- 🎓 [**Top 10 Machine Learning Algorithms from Scratch**](https://github.com/AhmedAbdulWahid-Data/Top_10_ML_Algorithms)
+  
+- 📊 [**5 Dashboards Collection**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards)
+  
+- ⚔️ [**Churn Prediction Model**](https://github.com/AhmedAbdulWahid-Data/Customer_Churn_Prediction)
+  
 - 🤖 [**Data Cleaner App**](https://github.com/AhmedAbdulWahid-Data/Data_Cleaner_app)
-- [**Top 10 Machine Learning Algorithms from Scratch**](https://github.com/AhmedAbdulWahid-Data/Top_10_ML_Algorithms)
-- [**Churn Prediction Model**](https://github.com/AhmedAbdulWahid-Data/Customer_Churn_Prediction)
-
+  
+- 🎮 [**Python Games**](https://github.com/AhmedAbdulWahid-Data/Python_Games)
+  
 ---
 
 ## 📊 Fun Facts  
