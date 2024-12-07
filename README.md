@@ -1,4 +1,4 @@
-# 🌟 Welcome to my Profile! 🌟  
+# 🕯️ Welcome to My World of Analytics and Innovation! 🕯️  
 
 Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about solving problems, creating insights, and building impactful solutions. Whether it's data, dashboards, or machine learning, I'm always exploring new ways to transform ideas into action! 🚀  
 
