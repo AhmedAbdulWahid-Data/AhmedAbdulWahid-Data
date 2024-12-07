@@ -41,13 +41,13 @@ Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about s
 
 ## Fun Facts:😅 
 
-- 💡 **“Impossible itself says, ‘I’m possible!’”** – A motto I live by every day.
+- 💡 **“Impossible itself says, ‘I’m possible!’”** 👉 A motto I live by every day.
   
-- 🤸 **Fitness Enthusiast** – Addicted to **calisthenics** and always pushing my limits.
+- 🤸 **Fitness Enthusiast** 👉 Addicted to **calisthenics** and always pushing my limits.
   
-- ♟️ **Strategic Thinker** – Chess lover who enjoys combining logic and creativity, with anime as my go-to relaxation!
+- ♟️ **Strategic Thinker** 👉 **Chess** lover who enjoys combining logic and creativity, with **anime** as my go-to relaxation!
   
-- 🌱 **Growth Mindset** – Passionate about honing my soft skills and continuously improving emotional intelligence (EQ).
+- 🌱 **Growth Mindset** 👉 Passionate about honing my soft skills and continuously improving emotional intelligence (EQ).
 
 ---
 
