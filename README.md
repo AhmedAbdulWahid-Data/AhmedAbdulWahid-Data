@@ -35,7 +35,7 @@ Hi there! 👋 I'm **Ahmed Abdulwahid**, a **Data Scientist** passionate about s
   
 ---
 
-## 📊 Fun Facts  
+## Fun Facts:😅 
 - 💡 *"Impossible itself says, 'I'm possible!'"*  
 - 🤸 Fitness enthusiast (calisthenics addict).  
 - ♟️ Love playing chess and watching anime during downtime.  
