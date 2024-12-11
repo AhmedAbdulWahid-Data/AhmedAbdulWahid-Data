@@ -1,5 +1,4 @@
-# 🕯️ Any Fool can make something **complicated** but It takes a Genius to make it simple 🕯️
----
+# > 🕯️ Any Fool can make something **complicated** but It takes a Genius to make it simple 🕯️
 
 ## 🏖️ Welcome to My World of Analytics and Innovation! 🏕️    
 
