@@ -1,4 +1,5 @@
 # 🕯️ Any Fool can make something **complicated** but It takes a Genius to make it simple 🕯️
+---
 
 ## 🏖️ Welcome to My World of Analytics and Innovation! 🏕️    
 
@@ -24,7 +25,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 ---
 
 
-# 📄 **CV** 👉 [Download 📂](https://github.com/user-attachments/files/18051889/Resume.pdf)
+# 📄 **CV** 👉 [Download 📂](https://github.com/user-attachments/files/18096395/Resume.pdf)
 
 
 ---
