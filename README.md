@@ -58,7 +58,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 
 ---
 
-> # Feel free to explore my projects and reach out anytime! Let’s create, collaborate, and make an impact together! 💪  
+> # Feel free to reach out anytime! Let’s create, collaborate, and make an impact together! 😇   
 
 ## 📧 Email 👉 [Here](mailto:ahmedabdulwahid.data@gmail.com)
 
