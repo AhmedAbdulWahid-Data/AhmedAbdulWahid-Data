@@ -63,7 +63,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 ---
 > # I’m open to conversations—feel free to message me! 💬📩
 
-## 📧 Email 👉 [Here](ahmedabdulwahid.data@gmail.com)
+## 📧 Email 👉 [Here](mailto:ahmedabdulwahid.data@gmail.com)
 
 ## 📊 Tableau Public (60,000+ views) 👉 [Here](https://public.tableau.com/app/profile/ahmed.abdul.wahid/vizzes)
 
