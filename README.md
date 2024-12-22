@@ -1,4 +1,4 @@
-> # 🕯️ Any Fool can make something **complicated** but It takes a Genius to make it simple 🕯️
+> # 🕯️ Any Fool can make something **complicated** but It takes a GENIUS to make it simple 😎
 
 ## 🏖️ Welcome to My World of Analytics and Innovation! 🏕️    
 
@@ -59,3 +59,12 @@ With a love for crafting **interactive dashboards**, building **machine learning
 ---
 
 #### Feel free to explore my projects and reach out anytime! Let’s create, collaborate, and make an impact together! 💪  
+
+---
+
+# Email: ahmedabdulwahid.data@gmail.com
+
+# Tableau Public (60,000+ views): https://public.tableau.com/app/profile/ahmed.abdul.wahid/vizzes
+
+# LinkedIn (200+ high-quality posts): https://www.linkedin.com/in/ahmed-abdulwahid/
+
