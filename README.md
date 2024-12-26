@@ -24,8 +24,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 ---
 
 
-
-# **👀 My Big Secret!** 👉 [Download 📂](https://github.com/user-attachments/files/18250703/Resume.pdf)
+# **👀 My Big Secret!** 👉 [Download 📂](https://github.com/user-attachments/files/18252282/Resume.pdf)
 
 
 ---
@@ -63,7 +62,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 
 ## 📧 Email 👉 [Here](mailto:ahmedabdulwahid.data@gmail.com)
 
-## 📊 Tableau Public (65000+ views) 👉 [Here](https://public.tableau.com/app/profile/ahmed.abdul.wahid/vizzes)
+## 📊 Tableau Public (65,000+ views) 👉 [Here](https://public.tableau.com/app/profile/ahmed.abdul.wahid/vizzes)
 
 ## 💼 LinkedIn (high-quality posts daily) 👉 [Here](https://www.linkedin.com/in/ahmed-abdulwahid/)
 
