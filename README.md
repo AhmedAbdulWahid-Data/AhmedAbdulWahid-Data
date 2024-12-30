@@ -54,7 +54,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 
 - 📚 **Avid Reader** 👉 Books are my source of **inspiration** and a way to **continuously** learn.
 
-- 🌍 **Language Learner** 👉 Learning **languages** lets me connect with people from all over the world!
+- 🌍 **Language Learner** 👉 Learning languages **challenges** my mind and allows me to **connect** with people across the globe.
   
 - 🤸 **Fitness Enthusiast** 👉 Addicted to **calisthenics** and always pushing my limits.
   
