@@ -51,12 +51,18 @@ With a love for crafting **interactive dashboards**, building **machine learning
 ## Fun Facts 😅 
 
 - 💡 **“Impossible itself says, ‘I’m possible!’”** 👉 A motto I live by every day.
+
+- 📚 **Avid Reader** 👉 Books are my source of **inspiration** and a way to **continuously** learn.
+
+- 🌍 **Language Learner** 👉 Learning **languages** lets me connect with people from all over the world!
   
 - 🤸 **Fitness Enthusiast** 👉 Addicted to **calisthenics** and always pushing my limits.
   
 - ♟️ **Strategic Thinker** 👉 **Chess** lover who enjoys combining logic and creativity, with **anime** as my go-to relaxation!
   
-- 🌱 **Growth Mindset** 👉 passionate about growing my soft skills and boosting my emotional intelligence (EQ). **Reading books** and **learning new languages** are my favorite ways to keep learning and connecting with people from all walks of life! 😊
+- 🌱 **Growth Mindset** 👉 passionate about growing my **soft skills** and boosting my emotional intelligence **(EQ)**.
+
+
 
 ---
 
