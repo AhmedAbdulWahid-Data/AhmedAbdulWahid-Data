@@ -52,7 +52,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 
 - 💡 **“Impossible itself says, ‘I’m possible!’”** 👉 A motto I live by every day.
 
-- 📚 **Avid Reader** 👉 Books are my source of **inspiration** and a way to **continuously** learn.
+- 📚 **Avid Reader** 👉 Books are my source of **inspiration** and a way to **continuously** learn and grow.
 
 - 🌍 **Language Learner** 👉 Learning languages **challenges** my mind and allows me to **connect** with people across the globe.
   
