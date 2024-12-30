@@ -56,7 +56,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
   
 - ♟️ **Strategic Thinker** 👉 **Chess** lover who enjoys combining logic and creativity, with **anime** as my go-to relaxation!
   
-- 🌱 **Growth Mindset** 👉 Passionate about honing my soft skills and continuously improving emotional intelligence (EQ).
+- 🌱 **Growth Mindset** 👉 passionate about growing my soft skills and boosting my emotional intelligence (EQ). **Reading books** and **learning new languages** are my favorite ways to keep learning and connecting with people from all walks of life! 😊
 
 ---
 
