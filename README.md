@@ -21,12 +21,12 @@ With a love for crafting **interactive dashboards**, building **machine learning
   
 - 🎯 **Focus**: Passionate about big data, Apache Spark, Deep Learning, and pushing boundaries with advanced analytics and AI-driven solutions.
   
-- 📚 **Lifelong Learner**: Constantly exploring **new** technologies, mastering skills, and staying at the forefront of innovation! 
+- 📚 **Lifelong Learner**: Constantly exploring **new** technologies, **mastering** skills, and staying at the **forefront** of innovation! 
 
 ---
 
 
-# **👀 My Big Secret!** 👉 [Download 📂](https://github.com/user-attachments/files/18266464/Resume.pdf)
+# **👀 My Big Secret!** 👉 [Download 📂](https://github.com/user-attachments/files/18285893/Resume.pdf)
 
 
 ---
