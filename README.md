@@ -26,7 +26,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 ---
 
 
-# **👀 My Big Secret!** 👉 [Download 📂](https://github.com/user-attachments/files/18285899/Resume.pdf)
+# **👀 My Big Secret!** 👉 [Download 📂](https://github.com/user-attachments/files/18285902/Resume.pdf)
 
 
 ---
