@@ -19,7 +19,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
     
 - 🛠️ **Expertise**: Helping businesses grow with data 📈—**3 years** of experience in analyzing **customer behavior** 👥, refining **marketing strategies** 🎯, and **enhancing products** 🚀 using Data Storytelling 📖, SQL 🗄️, Machine Learning 🤖, Python 🐍, Tableau 📊, and **more**.
   
-- 🎯 **Focus**: Making Data Science fun, accessible, and impactful for everyone, everywhere 🎯🔥. I launched my **Medium blog** 📃 to inspire and empower people to embrace data-driven growth 🌷. With **60+ articles**, I simplify Machine Learning, SQL, BI, and more 💡—helping thousands worldwide 🌍, from the US 🇺🇸 to Japan 🇯🇵, all while based in Egypt 🇪🇬, at the heart of the world 🫀.
+- 🎯 **Focus**: Making Data Science fun, accessible, and impactful for everyone, everywhere 🎯🔥. I launched my **Medium blog** 📃 to inspire and empower people to embrace data-driven growth 🌷. With **60+ articles**, I simplify Machine Learning, SQL, BI, and more 💡—helping **thousands worldwide** 🌍, from the US 🇺🇸 to Japan 🇯🇵, all while based in Egypt 🇪🇬, at the heart of the world 🫀.
   
 - 📚 **Lifelong Learner**: - Always exploring cutting-edge technologies, mastering new skills, and staying ahead in the ever-evolving world of data 🚀. Whether it’s **Deep Learning, Big Data, or GenAI**, I’m driven by **curiosity** and a **passion** for innovation 💡—turning knowledge into real-world impact! 
 
