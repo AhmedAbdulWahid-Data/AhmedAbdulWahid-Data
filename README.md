@@ -15,7 +15,8 @@ With a love for crafting **interactive dashboards**, building **machine learning
 
 ## 🌍 About Me
 
-- 🎓 **Background**: With a Bachelor’s in **Accounting**, I’ve transitioned into the dynamic world of **Data Science**, blending business acumen with technical expertise.
+- 🎓 **Background**: Studying **Business** in college built a strong foundation in financial and strategic thinking. Now, I apply that knowledge in Data Science, combining business insight with technical expertise to drive impactful decisions.
+
     
 - 🛠️ **Expertise**: Skilled in Data Visualization, SQL, Machine Learning, Python, Tableau, and **much more**.
   
