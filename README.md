@@ -17,7 +17,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 
 - 🎓 **Background**: Studying **Business** in college 📚 built a strong foundation in financial 💰 and strategic thinking 🎯. Now, I apply that knowledge in Data Science—combining business insight 💡 with technical expertise 🛠️ to drive impactful decisions 📊 and solutions 🚀.
     
-- 🛠️ **Expertise**: Helping businesses grow with data 📈 **3 years** of experience in analyzing **customer behavior** 👥, refining **marketing strategies** 🎯, and **enhancing products** 🚀 using Data Storytelling 📖, SQL 🗄️, Machine Learning 🤖, Python 🐍, Tableau 📊, and **more**.
+- 🛠️ **Expertise**: Helping businesses grow with data 📈—**3 years** of experience in analyzing **customer behavior** 👥, refining **marketing strategies** 🎯, and **enhancing products** 🚀 using Data Storytelling 📖, SQL 🗄️, Machine Learning 🤖, Python 🐍, Tableau 📊, and **more**.
   
 - 🎯 **Focus**: Making Data Science fun, accessible, and impactful for everyone, everywhere 🎯🔥. I launched my **Medium blog** 📃 to inspire and empower people to embrace data-driven growth 🌷. With **60+ articles**, I simplify Machine Learning, SQL, BI, and more 💡—helping thousands worldwide 🌍, from the US 🇺🇸 to Japan 🇯🇵, all while based in Egypt 🇪🇬, at the heart of the world 🫀.
   
