@@ -27,7 +27,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 ---
 
 
-# **📜 CV** 👉 [Download 📂](https://github.com/user-attachments/files/18888486/Resume.pdf)
+# **📜 CV** 👉 [Download 📂](https://github.com/user-attachments/files/18888544/Resume.pdf)
 
 
 ---
