@@ -36,6 +36,8 @@ With a love for crafting **interactive dashboards**, building **machine learning
 
 - 🏛️ [**Building Data Waharehoue from Scratch**](https://github.com/AhmedAbdulWahid-Data/Data_Warehouse_from_Scratch)
 
+- ⏳ [**Advanced Insights with SQL**](https://github.com/AhmedAbdulWahid-Data/Advanced_Insights_with_SQL/tree/main)
+
 - ⚔️ [**Top 10 Machine Learning Algorithms from Scratch**](https://github.com/AhmedAbdulWahid-Data/Top_10_ML_Algorithms)
   
 - 📊 [**5 Dashboards Collection**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards)
@@ -47,24 +49,6 @@ With a love for crafting **interactive dashboards**, building **machine learning
 - 🔭 [**Python Physics Simulations**](https://github.com/AhmedAbdulWahid-Data/Python_Physics)
   
 - 🎮 [**Python Games**](https://github.com/AhmedAbdulWahid-Data/Python_Games)
-
-  
----
-
-## Fun Facts 😅 
-
-- 💡 **“Impossible itself says, ‘I’m possible!’”** 👉 A motto I live by every day.
-
-- 📚 **Avid Reader** 👉 Books are my source of **inspiration** and a way to **continuously** learn and grow.
-
-- 🌍 **Language Learner** 👉 Learning languages **challenges** my mind and allows me to **connect** with people across the globe.
-  
-- 🤸 **Fitness Enthusiast** 👉 Addicted to **calisthenics** and always pushing my limits.
-  
-- ♟️ **Strategic Thinker** 👉 **Chess** lover who enjoys combining logic and creativity, with **anime** as my go-to relaxation!
-  
-- 🌱 **Growth Mindset** 👉 passionate about growing my **soft skills** and boosting my emotional intelligence **(EQ)**.
-
 
 
 ---
