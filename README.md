@@ -59,7 +59,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 
 ## 📊 Tableau Public (75,000+ views) 👉 [Here](https://public.tableau.com/app/profile/ahmed.abdul.wahid/vizzes)
 
-## 💼 LinkedIn (500+ high-quality posts) 👉 [Here](https://www.linkedin.com/in/ahmed-abdulwahid/)
+## 💼 LinkedIn (600+ high-quality posts) 👉 [Here](https://www.linkedin.com/in/ahmed-abdulwahid/)
 
 ## ✍️ Medium Blog (60+ Articles) 👉 [Here](https://medium.com/@ahmedabdulwahid.data)
 
