@@ -32,7 +32,9 @@ With a love for crafting **interactive dashboards**, building **machine learning
 
 ---
 
-## 📽️ Take a look at the projects I’m most proud of 🏭:  
+## 📽️ Take a look at the projects I’m most proud of 🏭:
+
+- ❄️ [**AWS & Snowflake Big Data Analytics**](https://github.com/AhmedAbdulWahid-Data/AWS_Snowflake_Project/tree/main)
 
 - 🏛️ [**Building Data Waharehoue from Scratch**](https://github.com/AhmedAbdulWahid-Data/Data_Warehouse_from_Scratch)
 
