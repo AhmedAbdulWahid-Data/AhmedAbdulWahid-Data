@@ -28,7 +28,7 @@ I believe data science should be **fun, accessible, and empowering** for all. Th
   
 ### - 🤖 [**Churn Prediction Model**](https://github.com/AhmedAbdulWahid-Data/Customer_Churn_Prediction)
   
-### - 🧼 [**Data Cleaner App**](https://github.com/AhmedAbdulWahid-Data/Data_Cleaner_app)
+### - 🧼 [**Data Cleaning App**](https://github.com/AhmedAbdulWahid-Data/Data_Cleaner_app)
 
 ### - 🔭 [**Python Physics Simulations**](https://github.com/AhmedAbdulWahid-Data/Python_Physics)
   
