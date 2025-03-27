@@ -1,56 +1,49 @@
-> # 🕯️ Any Fool can make something **complicated** but It takes a GENIUS to make it simple 😎
+> # 🕯️ **Any fool can make something complicated, but it takes a genius to make it simple.** 😎  
 
-## 🏖️ Welcome to My World of Analytics and Innovation! 🏕️    
+### 💡 Every dataset holds a story. My mission? **To help the world read it.** 🔥  
 
-Hi, my friend!👋 I'm **Ahmed Abdulwahid**, 
+🏖️ It all started with a simple question: **What stories hide within the data?** 🤔 That curiosity led me into a world where raw numbers turn into **powerful insights**—fueling decisions, sparking innovation, and making a real impact.    
 
-a **Data Scientist** driven by curiosity and innovation. I thrive on turning raw data into **meaningful stories**, solving complex problems, and delivering **insights** that make a real-world impact. ✨  
+## Hi, my friend! 👋 I'm **Ahmed Abdulwahid**  
 
-With a love for crafting **interactive dashboards**, building **machine learning models**, and exploring **big data**, I’m on a mission to help businesses unlock the true power of their data. 🚀  
+As a **Data Scientist & Analytics Engineer**, I thrive on **decoding complexity**, uncovering **hidden patterns**, and transforming data into **stories that drive action**. ✨  
 
-💡 **My Motto**: *"From data to discovery, from insight to impact!"*  
+### 💡 **Making Data Science for Everyone**  
+I believe data science should be **fun, accessible, and empowering** for all. That’s why I launched my **Medium blog** 📃—where I break down **Machine Learning, SQL, BI, and more** into simple, actionable insights. With **65+ articles**, I’ve helped **thousands worldwide** 🌍—from the **US 🇺🇸 to Japan 🇯🇵**, all while based in **Egypt 🇪🇬—the heart of the world** 🫀.  
 
 
 ---
 
-## 🌍 About Me
+# 🌍 About Me
 
 - 🎓 **Background**: Studying **Business** in college 📚 built a strong foundation in financial 💰 and strategic thinking 🎯. Now, I apply that knowledge in Data Science—combining business insight 💡 with technical expertise 🛠️ to drive impactful decisions 📊 and solutions 🚀.
     
 - 🛠️ **Expertise**: Helping businesses grow with data 📈—**3 years** of experience in analyzing **customer behavior** 👥, refining **marketing strategies** 🎯, and **enhancing products** 🚀 using Data Storytelling 📖, SQL 🗄️, Machine Learning 🤖, Python 🐍, Tableau 📊, and **more**.
   
-- 🎯 **Focus**: Making Data Science fun, accessible, and impactful for everyone, everywhere 🎯🔥. I launched my **Medium blog** 📃 to inspire and empower people to embrace data-driven growth 🌷. With **60+ articles**, I simplify Machine Learning, SQL, BI, and more 💡—helping **thousands worldwide** 🌍, from the US 🇺🇸 to Japan 🇯🇵, all while based in Egypt 🇪🇬, at the heart of the world 🫀.
-  
-- 📚 **Lifelong Learner**: - Always exploring cutting-edge technologies, mastering new skills, and staying ahead in the ever-evolving world of data 🚀. Whether it’s **Deep Learning, Big Data, or GenAI**, I’m driven by **curiosity** and a **passion** for innovation 💡—turning knowledge into real-world impact! 
+- 🔧 **Tools**: Databricks ⚡, JupyterLab 📓, VS Code 🖥️, Snowflake ❄️, AWS ☁️, Tableau 📊, Excel 📑, and **more**.
 
 
 ---
 
+# 📽️ Take a look at the projects I’m most proud of 🏭:
 
-# **📜 CV** 👉 [Download 📂](https://github.com/user-attachments/files/18964580/Resume.pdf)
+### - ❄️ [**AWS & Snowflake Big Data Analytics**](https://github.com/AhmedAbdulWahid-Data/AWS_Snowflake_Project/tree/main)
 
+### - 🏛️ [**Building Data Waharehoue from Scratch**](https://github.com/AhmedAbdulWahid-Data/Data_Warehouse_from_Scratch)
 
----
+### - ⏳ [**Advanced Insights with SQL**](https://github.com/AhmedAbdulWahid-Data/Advanced_Insights_with_SQL/tree/main)
 
-## 📽️ Take a look at the projects I’m most proud of 🏭:
-
-- ❄️ [**AWS & Snowflake Big Data Analytics**](https://github.com/AhmedAbdulWahid-Data/AWS_Snowflake_Project/tree/main)
-
-- 🏛️ [**Building Data Waharehoue from Scratch**](https://github.com/AhmedAbdulWahid-Data/Data_Warehouse_from_Scratch)
-
-- ⏳ [**Advanced Insights with SQL**](https://github.com/AhmedAbdulWahid-Data/Advanced_Insights_with_SQL/tree/main)
-
-- ⚔️ [**Top 10 Machine Learning Algorithms from Scratch**](https://github.com/AhmedAbdulWahid-Data/Top_10_ML_Algorithms)
+### - ⚔️ [**Top 10 Machine Learning Algorithms from Scratch**](https://github.com/AhmedAbdulWahid-Data/Top_10_ML_Algorithms)
   
-- 📊 [**5 Dashboards Collection**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards)
+### - 📊 [**5 Dashboards Collection**](https://github.com/AhmedAbdulWahid-Data/Top_5_Dashboards)
   
-- 🤖 [**Churn Prediction Model**](https://github.com/AhmedAbdulWahid-Data/Customer_Churn_Prediction)
+### - 🤖 [**Churn Prediction Model**](https://github.com/AhmedAbdulWahid-Data/Customer_Churn_Prediction)
   
-- 🧼 [**Data Cleaner App**](https://github.com/AhmedAbdulWahid-Data/Data_Cleaner_app)
+### - 🧼 [**Data Cleaner App**](https://github.com/AhmedAbdulWahid-Data/Data_Cleaner_app)
 
-- 🔭 [**Python Physics Simulations**](https://github.com/AhmedAbdulWahid-Data/Python_Physics)
+### - 🔭 [**Python Physics Simulations**](https://github.com/AhmedAbdulWahid-Data/Python_Physics)
   
-- 🎮 [**Python Games**](https://github.com/AhmedAbdulWahid-Data/Python_Games)
+### - 🎮 [**Python Games**](https://github.com/AhmedAbdulWahid-Data/Python_Games)
 
 
 ---
