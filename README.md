@@ -12,6 +12,7 @@ As a **Data Scientist & Analytics Engineer**, I thrive on **decoding complexity*
 I believe data science should be **fun, accessible, and empowering** for all. That’s why I launched my **Medium blog** 📃—where I break down **Machine Learning, SQL, BI, and more** into simple, actionable insights. With **65+ articles**, I’ve helped **thousands worldwide** 🌍—from the **US 🇺🇸 to Japan 🇯🇵**, all while based in **Egypt 🇪🇬—the heart of the world** 🫀.  
 
 
+
   
 ### 🛠️ **Tools I Use**: Databricks ⚡, JupyterLab 📓, VS Code 🖥️, Snowflake ❄️, AWS ☁️, Tableau 📊, Excel 📑, SQL 🗄️ and **more**.
 
