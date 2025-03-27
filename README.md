@@ -63,7 +63,7 @@ With a love for crafting **interactive dashboards**, building **machine learning
 
 ## 💼 LinkedIn (600+ high-quality posts) 👉 [Here](https://www.linkedin.com/in/ahmed-abdulwahid/)
 
-## ✍️ Medium Blog (60+ Articles) 👉 [Here](https://medium.com/@ahmedabdulwahid.data)
+## ✍️ Medium Blog (65+ Articles) 👉 [Here](https://medium.com/@ahmedabdulwahid.data)
 
 
 
