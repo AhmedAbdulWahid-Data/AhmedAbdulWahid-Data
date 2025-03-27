@@ -13,10 +13,6 @@ I believe data science should be **fun, accessible, and empowering** for all. Th
 
 
 
-  
-### 🛠️ **Tools I Use**: Databricks ⚡, JupyterLab 📓, VS Code 🖥️, Snowflake ❄️, AWS ☁️, Tableau 📊, Excel 📑, SQL 🗄️ and **more**.
-
-
 ---
 
 # 📽️ Take a look at the projects I’m most proud of 🏭:
