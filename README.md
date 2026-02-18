@@ -16,6 +16,8 @@ I believe data science should be **fun, accessible, and empowering** for all. Th
 
 # 📽️ Take a look at the projects I’m most proud of 🏭:
 
+### - 🏦[**Banking Lakehouse Implementation on Databricks**](https://github.com/AhmedAbdulWahid-Data/Banking_Lakehouse_Implementation/tree/main)
+
 ### - 💡 [**Proven Data Strategies for Business Growth**](https://github.com/AhmedAbdulWahid-Data/Proven_Data_Strategies_for_Business_Growth-)
 
 ### - ❄️ [**AWS & Snowflake Big Data Analytics**](https://github.com/AhmedAbdulWahid-Data/AWS_Snowflake_Project/tree/main)
