@@ -4,13 +4,17 @@
 
 🏖️ It all started with a simple question: **What stories hide within the data?** 🤔 That curiosity led me into a world where raw numbers turn into **powerful insights**—fueling decisions, sparking innovation, and making a real impact.    
 
-## Hi, my friend! 👋 I'm **Ahmed Abdulwahid**  
+## Hi, my friend! 👋 I'm **Ahmed Abdulwahid**
 
-As a **Data Scientist & Analytics Engineer**, I thrive on **decoding complexity**, uncovering **hidden patterns**, and transforming data into **stories that drive action**. ✨  
+As an **Analytics Engineer**, I thrive on designing **scalable data models**, building **robust ETL pipelines**, and transforming raw data into **analytics-ready assets that drive action**. ✨  
 
-### 💡 **Making Data Science for Everyone**  
-I believe data science should be **fun, accessible, and empowering** for all. That’s why I launched my **Medium blog** 📃—where I break down **Machine Learning, SQL, BI, and more** into simple, actionable insights. With **65+ articles**, I’ve helped **thousands worldwide** 🌍—from the **US 🇺🇸 to Japan 🇯🇵**, all while based in **Egypt 🇪🇬—the heart of the world** 🫀.  
+I bridge **Data Engineering ⚙️** and **Business Intelligence 📊**, ensuring data is clean, reliable, and optimized for decision-making.
 
+### 💡 **Making Data for Everyone**
+
+I believe data should be **clear, practical, and empowering** for all. That’s why I launched my **Medium blog** 📃—where I break down **Data Engineering, SQL, Analytics, BI, and Machine Learning** into simple, actionable insights.  
+
+With **70+ articles**, I’ve helped **thousands worldwide** 🌍—from the **US 🇺🇸 to Japan 🇯🇵**, all while based in **Egypt 🇪🇬—the heart of the world** 🫀.
 
 ---
 
